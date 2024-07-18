@@ -1,3 +1,6 @@
 [submodule "ccpp-physics"]
 	path = ccpp-physics
 	url = https://github.com/NCAR/ccpp-physics.git
+[submodule "ccpp-framework"]
+	path = ccpp-framework
+	url = https://github.com/NCAR/ccpp-framework.git
